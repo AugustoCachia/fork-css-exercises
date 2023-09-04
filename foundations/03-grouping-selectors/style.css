@@ -1,0 +1,12 @@
+.authentic,
+.impostor {
+    font-size: 28px;    
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.impostor {
+    background-color: black;
+    color: white;
+}
+.authentic {
+    background-color: yellow;
+}
